@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="65px" viewBox="0 0 67 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_rocket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guidelines" transform="translate(-687.000000, -1983.000000)">
+            <g id="ico_rocket" transform="translate(688.000000, 1984.000000)">
+                <path d="M53.5959,27.733 C56.8199,24.509 59.3479,20.567 60.9399,16.294 M62.4909,10.488 C63.0039,7.441 63.0779,4.316 62.6999,1.254 C62.6339,0.723 62.2149,0.304 61.6839,0.238 C56.8949,-0.354 51.9529,0.162 47.3919,1.731 C42.8299,3.299 38.6159,5.932 35.2039,9.343 L27.4199,17.127 L16.1839,18.576 M7.6979,26.719 L4.6739,29.742 C4.3669,30.048 4.2559,30.5 4.3849,30.915 C4.5129,31.329 4.8609,31.637 5.2869,31.716 L13.4789,33.233 L15.0879,34.843 L11.6609,36.699 C11.3369,36.874 11.1149,37.193 11.0619,37.558 C11.0079,37.922 11.1309,38.291 11.3919,38.552 L24.3859,51.546 C24.6069,51.767 24.9049,51.888 25.2119,51.888 C25.2679,51.888 25.3249,51.884 25.3799,51.876 C25.7449,51.823 26.0639,51.601 26.2389,51.276 L28.0949,47.85 L29.7039,49.459 L31.2219,57.65 C31.3009,58.077 31.6099,58.425 32.0239,58.553 C32.1369,58.589 32.2539,58.606 32.3699,58.606 C32.6749,58.606 32.9739,58.486 33.1969,58.264 L44.0299,47.43 C44.2119,47.248 44.3289,47.01 44.3629,46.754 L45.7209,35.598 L53.5959,27.733" id="Stroke-1" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M64.4748,13.214 C64.4748,14.719 63.2538,15.939 61.7488,15.939 C60.2448,15.939 59.0238,14.719 59.0238,13.214 C59.0238,11.709 60.2448,10.488 61.7488,10.488 C63.2538,10.488 64.4748,11.709 64.4748,13.214 Z" id="Stroke-3" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12.3937,24.631 C12.3937,26.136 11.1727,27.356 9.6677,27.356 C8.1637,27.356 6.9427,26.136 6.9427,24.631 C6.9427,23.126 8.1637,21.905 9.6677,21.905 C11.1727,21.905 12.3937,23.126 12.3937,24.631 Z" id="Stroke-5" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M3.0509,59.3004 L8.4879,53.8634" id="Stroke-7" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9.7169,58.3444 L17.0289,51.0334" id="Stroke-9" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0.0002,56.588 L11.1092,45.479" id="Stroke-11" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.8498,50.526 L13.9978,48.378" id="Stroke-13" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.8361,62.1144 L6.6971,61.2534" id="Stroke-15" stroke="#D3D7E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M41.4357,25.5782 C41.4357,28.0102 39.4647,29.9802 37.0337,29.9802 C34.6017,29.9802 32.6307,28.0102 32.6307,25.5782 C32.6307,23.1472 34.6017,21.1762 37.0337,21.1762 C39.4647,21.1762 41.4357,23.1472 41.4357,25.5782" id="Fill-17" fill="#F9057C"></path>
+                <path d="M49.6427,17.5909 C49.6427,20.0079 47.6837,21.9669 45.2657,21.9669 C42.8487,21.9669 40.8887,20.0079 40.8887,17.5909 C40.8887,15.1739 42.8487,13.2139 45.2657,13.2139 C47.6837,13.2139 49.6427,15.1739 49.6427,17.5909" id="Fill-19" fill="#495EF2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

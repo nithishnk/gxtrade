@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-283.000000, -691.000000)" id="Group">
+            <g transform="translate(284.000000, 690.000000)">
+                <polyline id="Stroke-1" stroke="#D3D7E1" stroke-width="2" points="51.4510242 60.0032515 39.3005848 66.1390015 27.1489485 60.0032515"></polyline>
+                <g id="Group-10" transform="translate(0.000000, 28.395979)" stroke="#D3D7E1" stroke-width="2">
+                    <polygon id="Stroke-2" points="27.1493076 31.6072721 27.1493076 46.1312868 39.299747 52.2670368 51.4513833 46.1312868 51.4513833 31.6072721 39.299747 25.4715221"></polygon>
+                    <path d="M39.3001061,37.7434985 L39.3001061,52.2675132" id="Stroke-4"></path>
+                    <polyline id="Stroke-6" points="24.3017167 7.27713529 12.1512773 13.4128853 -0.000359090909 7.27713529"></polyline>
+                    <polygon id="Stroke-8" points="0 7.27713529 0 21.80115 12.1504394 27.9369 24.3020758 21.80115 24.3020758 7.27713529 12.1504394 1.14138529"></polygon>
+                </g>
+                <path d="M12.1509182,41.8093412 L12.1509182,56.3333559" id="Stroke-11" stroke="#D3D7E1" stroke-width="2"></path>
+                <g id="Group-16" transform="translate(53.863636, 28.395979)" stroke="#D3D7E1" stroke-width="2">
+                    <polyline id="Stroke-12" points="24.8908652 7.27713529 12.7404258 13.4128853 0.588789394 7.27713529"></polyline>
+                    <polygon id="Stroke-14" points="0.589148485 7.27713529 0.589148485 21.80115 12.7395879 27.9369 24.8912242 21.80115 24.8912242 7.27713529 12.7395879 1.14138529"></polygon>
+                </g>
+                <path d="M66.603703,41.8093412 L66.603703,56.3333559" id="Stroke-17" stroke="#D3D7E1" stroke-width="2"></path>
+                <g id="Group-32" transform="translate(11.969697, 0.998921)">
+                    <path d="M54.5568015,60.0564971 L54.5568015,65.4525265 C54.5568015,67.4263059 52.9492712,69.0260559 50.9658924,69.0260559 L44.4878924,69.0260559" id="Stroke-18" stroke="#D3D7E1" stroke-width="2"></path>
+                    <path d="M44.4877727,15.6137029 L50.9657727,15.6137029 C52.9491515,15.6137029 54.5566818,17.2134529 54.5566818,19.1872324 L54.5566818,23.8089971" id="Stroke-20" stroke="#D3D7E1" stroke-width="2"></path>
+                    <path d="M0.107607576,23.8088779 L0.107607576,19.1871132 C0.107607576,17.2133338 1.71513788,15.6135838 3.69851667,15.6135838 L10.3919712,15.6135838" id="Stroke-22" stroke="#D3D7E1" stroke-width="2"></path>
+                    <path d="M0.107607576,60.0564971 L0.107607576,65.4525265 C0.107607576,67.4263059 1.71513788,69.0260559 3.69851667,69.0260559 L10.3919712,69.0260559" id="Stroke-24" stroke="#D3D7E1" stroke-width="2"></path>
+                    <polyline id="Fill-26" fill="#F9057C" points="39.4813273 6.32860147 27.3308879 12.4643515 15.1792515 6.32860147"></polyline>
+                    <polygon id="Fill-28" fill="#F9057C" points="15.1796106 6.32860147 15.1796106 20.851425 27.33005 26.9883662 39.4816864 20.851425 39.4816864 6.32860147 27.33005 0.192851471"></polygon>
+                    <path d="M27.3304091,12.4641132 L27.3304091,26.9881279" id="Fill-30" fill="#F9057C"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
